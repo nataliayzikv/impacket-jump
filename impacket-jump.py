@@ -1,4 +1,3 @@
-#!c:\users\maor\desktop\documents\programming\maldev\remotecomexec\.venv\scripts\python.exe
 # -*- coding: utf-8 -*-
 
 # Standard Library Imports

